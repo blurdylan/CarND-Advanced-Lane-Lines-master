@@ -3,7 +3,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
-In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output created summarizing my experimentation is found in the [writeup](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) for this project.
+In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output created summarizing my experimentation is found in the [writeup](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup.md) for this project.
 
 The Project
 ---
